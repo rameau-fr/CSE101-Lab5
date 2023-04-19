@@ -23,6 +23,7 @@ def EuclideanDistance(person1, person2):
     Returns:
         float: the distance between the two inputs
     """
+    val = 1
     return 1
 
 def ComputeAllDistances(candidates_list, client):
