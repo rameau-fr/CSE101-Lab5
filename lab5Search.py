@@ -77,5 +77,6 @@ def main():
     val, idx = FindMin(list_dist)
     print(candidates_list[idx]) # Print the best candidate for the client
     
-main()
+if __name__ == "__main__": # Run the main!
+    main()
         
